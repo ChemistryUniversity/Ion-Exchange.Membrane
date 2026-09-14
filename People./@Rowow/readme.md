@@ -1,1 +1,2 @@
-- [DIY Ion-Exchange Membranes from Hardware Store Items](
+- [DIY Ion-Exchange Membranes from Hardware Store Items](https://youtu.be/luulTI1RKHE)
+- [Cation Exchange Membrane: Cheap DIY Recipe in 2 Minutes of Process Time](
